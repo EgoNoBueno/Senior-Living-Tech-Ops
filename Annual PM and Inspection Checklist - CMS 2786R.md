@@ -339,6 +339,69 @@ Confirm all lower-frequency tasks are fully documented for the year.
 | Cooking hood cleaning (semi-annual, ×2) | K324 | ☐ Yes ☐ No ☐ N/A | |
 | Kitchen suppression inspection (semi-annual, ×2) | K324 | ☐ Yes ☐ No ☐ N/A | |
 | Medical gas semi-annual alarm tests | K907, K908 | ☐ Yes ☐ No | |
+| Physical environment quarterly compliance walks (4 quarters) | §483.90 | ☐ Yes ☐ No | |
+| Pest control monthly service records (12 months) | §483.90(i)(4) | ☐ Yes ☐ No | |
+| Resident call system monthly tests (12 months) | §483.90(g) | ☐ Yes ☐ No | |
+
+---
+
+## 16. Physical Environment — Annual Compliance Review (§483.90)
+
+> Reference: 42 CFR §483.90 (Physical Environment) | §483.25(n) (Bed Rails) | §483.10(i) (Safe Environment)  
+> CMS requires LTC facilities to maintain the physical environment to protect the health and safety of residents, personnel, and the public.
+
+### 16A. Resident Call System (§483.90(g))
+
+| # | Task | Complete | Notes |
+|---|------|----------|-------|
+| 16A.1 | All resident call systems tested from 100% of patient room bedsides | ☐ Yes ☐ No | |
+| 16A.2 | All resident call systems tested from 100% of toilet and bathing facilities | ☐ Yes ☐ No | |
+| 16A.3 | All failures identified during testing repaired and retested | ☐ Yes ☐ No ☐ N/A | |
+| 16A.4 | Call system maintenance records retained on-site | ☐ Yes ☐ No | |
+
+### 16B. Bed Frame, Mattress, and Bed Rail Inspection (§483.90(d)(3), §483.25(n))
+
+| # | Task | Complete | Notes |
+|---|------|----------|-------|
+| 16B.1 | All bed frames inspected for entrapment hazards (gaps between mattress, frame, and rails) | ☐ Yes ☐ No | |
+| 16B.2 | All mattresses inspected for damage, sagging, or size incompatibility with frame | ☐ Yes ☐ No | |
+| 16B.3 | All bed rails inspected for structural integrity and correct installation per manufacturer specs | ☐ Yes ☐ No | |
+| 16B.4 | Bed rails, mattresses, and frames purchased separately — confirmed compatible per manufacturer | ☐ Yes ☐ No ☐ N/A | |
+| 16B.5 | Residents assessed for entrapment risk prior to bed rail installation (§483.25(n)(1)) | ☐ Yes ☐ No ☐ N/A | |
+| 16B.6 | Informed consent documentation on file for each resident using bed rails (§483.25(n)(2)) | ☐ Yes ☐ No ☐ N/A | |
+| 16B.7 | Inspection results and any corrective actions documented in maintenance log | ☐ Yes ☐ No | |
+
+**Total beds inspected:** ______  **Beds with deficiencies found:** ______  **Deficiencies corrected:** ______  
+
+### 16C. Corridor Handrails (§483.90(i)(3))
+
+| Floor / Area | Handrails Present Both Sides | Firmly Secured — No Loose Mounts | No Visible Damage | Pass / Fail |
+|-------------|------------------------------|----------------------------------|------------------|-------------|
+| Floor: ______ | ☐ Yes ☐ No | ☐ Yes ☐ No | ☐ Yes ☐ No | |
+| Floor: ______ | ☐ Yes ☐ No | ☐ Yes ☐ No | ☐ Yes ☐ No | |
+| Floor: ______ | ☐ Yes ☐ No | ☐ Yes ☐ No | ☐ Yes ☐ No | |
+| Basement / Mechanical | ☐ Yes ☐ No | ☐ Yes ☐ No | ☐ Yes ☐ No | |
+
+### 16D. Battery-Operated Smoke Alarms in Resident Sleeping Rooms and Common Areas (§483.90(a)(5))
+
+| # | Task | Complete | Notes |
+|---|------|----------|-------|
+| 16D.1 | Battery-operated single station smoke alarms present in all required areas (N/A if system-based detectors or fully sprinklered per §483.90(a)(5)(iii)) | ☐ Yes ☐ No ☐ N/A | |
+| 16D.2 | All smoke alarms tested per manufacturer recommendations | ☐ Yes ☐ No ☐ N/A | |
+| 16D.3 | Batteries replaced per manufacturer schedule | ☐ Yes ☐ No ☐ N/A | |
+| 16D.4 | Inspection, testing, and maintenance records retained on-site | ☐ Yes ☐ No | |
+
+### 16E. Other Physical Environment Requirements (§483.90(i), §483.10(i))
+
+| # | Task | Complete | Notes |
+|---|------|----------|-------|
+| 16E.1 | Emergency water supply procedures documented and staff trained on steps during water supply loss (§483.90(i)(1)) | ☐ Yes ☐ No | |
+| 16E.2 | Adequate outside ventilation verified — windows, mechanical ventilation, or combination functional (§483.90(i)(2)) | ☐ Yes ☐ No | |
+| 16E.3 | Pest control program — annual contract or service review; 12 months of service records on file (§483.90(i)(4)) | ☐ Yes ☐ No | |
+| 16E.4 | Temperature monitoring records reviewed — 71–81°F maintained in patient areas year-round (§483.10(i)(6)) | ☐ Yes ☐ No | |
+| 16E.5 | Patient care equipment maintenance program — documented program in place; all mechanical, electrical, and patient care equipment maintained in safe operating condition (§483.90(d)(2)) | ☐ Yes ☐ No | |
+| 16E.6 | Dining and activity room requirements met — well-lighted, ventilated, adequately furnished, sufficient space (§483.90(h)) | ☐ Yes ☐ No | |
+| 16E.7 | Housekeeping and maintenance services — facility interior maintained in a sanitary, orderly, and comfortable condition (§483.10(i)(2)) | ☐ Yes ☐ No | |
 
 ---
 

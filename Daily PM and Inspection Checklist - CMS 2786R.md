@@ -201,6 +201,24 @@ Walk every corridor, stairwell, and exit discharge path on each occupied floor.
 
 ---
 
+## 14. Physical Environment — Daily Check (§483.90)
+
+> Reference: 42 CFR §483.90(g), §483.90(i), §483.10(i)
+
+| # | Task | Pass | Fail | N/A | Notes |
+|---|------|------|------|-----|-------|
+| 14.1 | Resident call system — test from at least 2 patient room bedsides (§483.90(g)) | | | | |
+| 14.2 | Resident call system — test from at least 2 toilet / bathing facilities (§483.90(g)) | | | | |
+| 14.3 | Corridor handrails present and firmly secured on both sides of all corridors (§483.90(i)(3)) | | | | |
+| 14.4 | Adequate lighting operational in all corridors, patient rooms, and common areas (§483.10(i)(5)) | | | | |
+| 14.5 | Facility temperature within comfortable and safe range — 71–81°F in patient areas (§483.10(i)(6)) | | | | |
+| 14.6 | No evidence of pest or rodent activity in patient care areas, dining, or food storage (§483.90(i)(4)) | | | | |
+| 14.7 | Dining and activity areas well-lighted, ventilated, and free of obstruction to use (§483.90(h)) | | | | |
+
+**Temperature Reading(s):** _________ °F  (Location: _______________)
+
+---
+
 ## Summary / Sign-Off
 
 **Total Deficiencies Found:** _________  
@@ -224,11 +242,11 @@ Walk every corridor, stairwell, and exit discharge path on each occupied floor.
 
 | Frequency | Key Requirement | K-Tag |
 |-----------|----------------|-------|
-| **Each Shift** | Egress clear, exit signs lit, doors not propped, O₂ safety, fire watch if needed | K211, K291, K293, K223, K346, K354, K925 |
-| **Daily** | Full facility walk + **construction area egress (only explicitly daily item)** | K791 + all above |
-| **Monthly** | Elevator Firefighter's Service, Generator load test, LIM test | K531, K918, K914 |
-| **Quarterly** | Fire drills (each shift, each quarter) | K712 |
-| **Annually** | Fire alarm test, sprinkler inspection, door assembly inspection, fire extinguisher service | K345, K353, K761, K355 |
+| **Each Shift** | Egress clear, exit signs lit, doors not propped, O₂ safety, fire watch if needed, resident call spot check, handrails, temperature | K211, K291, K293, K223, K346, K354, K925, §483.90 |
+| **Daily** | Full facility walk + **construction area egress (only explicitly daily item)** + resident call system, handrails, lighting, temp, pest check | K791 + all above, §483.90 |
+| **Monthly** | Elevator Firefighter's Service, Generator load test, LIM test, full resident call system test, pest control verification | K531, K918, K914, §483.90 |
+| **Quarterly** | Fire drills (each shift, each quarter), physical environment walk, bed rail/frame inspection, smoke alarm battery check | K712, §483.90, §483.25(n) |
+| **Annually** | Fire alarm test, sprinkler inspection, door assembly inspection, fire extinguisher service, physical environment compliance review | K345, K353, K761, K355, §483.90 |
 
 ---
 

@@ -89,6 +89,27 @@
 
 ---
 
+## 5. Physical Environment — Monthly Check (§483.90)
+
+> Reference: 42 CFR §483.90(d), §483.90(g), §483.90(h), §483.90(i) | §483.25(n) | §483.10(i)
+
+| # | Task | Pass | Fail | N/A | Notes |
+|---|------|------|------|-----|-------|
+| 5.1 | Resident call system — full facility functional test from each resident room bedside and toilet/bathing facility (§483.90(g)) | | | | |
+| 5.2 | Corridor handrails — full facility inspection; firmly secured on both sides (§483.90(i)(3)) | | | | |
+| 5.3 | Pest control service — confirm service was performed this month and service report is on file (§483.90(i)(4)) | | | | |
+| 5.4 | Bed frames, mattresses, and bed rails — spot inspection for entrapment hazards and structural integrity; document any deficiencies (§483.90(d)(3), §483.25(n)) | | | | |
+| 5.5 | Mechanical, electrical, and patient care equipment — no unsafe conditions; all work orders from prior month resolved (§483.90(d)(2)) | | | | |
+| 5.6 | Temperature monitoring — facility thermostats functional; 71–81°F range maintained in all patient care areas (§483.10(i)(6)) | | | | |
+| 5.7 | Housekeeping and maintenance — sanitary, orderly, and comfortable interior confirmed (§483.10(i)(2)) | | | | |
+| 5.8 | Dining and activity rooms — well-lighted, ventilated, adequately furnished, sufficient space for activities (§483.90(h)) | | | | |
+| 5.9 | Emergency water supply procedures — documented and accessible to staff (§483.90(i)(1)) | | | | |
+
+**Pest control service date this month:** __________  **Service report on file:** ☐ Yes ☐ No  
+**Resident call system failures found:** __________  **Work order(s) submitted:** ☐ Yes ☐ No  WO#: __________
+
+---
+
 ## Summary / Sign-Off
 
 **Deficiencies Found:** ☐ Yes ☐ No

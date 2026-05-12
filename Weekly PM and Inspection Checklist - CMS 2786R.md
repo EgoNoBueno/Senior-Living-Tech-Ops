@@ -176,6 +176,26 @@
 
 ---
 
+## 10. Physical Environment — Weekly Walk (§483.90)
+
+> Reference: 42 CFR §483.90(d)(2–3), §483.90(g), §483.90(h), §483.90(i) | §483.25(n) | §483.10(i)
+
+| # | Task | Pass | Fail | N/A | Notes |
+|---|------|------|------|-----|-------|
+| 10.1 | Corridor handrails — facility-wide inspection; firmly secured, no loose mounts or damage, present on both sides (§483.90(i)(3)) | | | | |
+| 10.2 | Resident call system — complete floor-by-floor check; call from bedside and bathroom in each unit (§483.90(g)) | | | | |
+| 10.3 | Adequate lighting in all resident rooms, corridors, and common areas — no burned-out fixtures reported (§483.10(i)(5)) | | | | |
+| 10.4 | HVAC supply/return grilles — unobstructed and functional; no unusual odors indicating ventilation failure (§483.90(i)(2)) | | | | |
+| 10.5 | Pest control — no evidence of active pest or rodent activity facility-wide (§483.90(i)(4)) | | | | |
+| 10.6 | Mechanical, electrical, and patient-care equipment — no visible damage, fluid leaks, or unsafe conditions (§483.90(d)(2)) | | | | |
+| 10.7 | Bed rails, frames, and mattresses — spot check for entrapment gaps, structural damage, or loose hardware (§483.90(d)(3), §483.25(n)) | | | | |
+| 10.8 | Dining and activity rooms — well-lighted, ventilated, adequately furnished, and sufficient space maintained (§483.90(h)) | | | | |
+
+**Handrail deficiencies found:** _____________  **Call system failures found:** _____________  
+**Work order(s) submitted:** ☐ Yes ☐ No  WO#: __________
+
+---
+
 ## Summary / Sign-Off
 
 **Total Deficiencies Found:** _________  
@@ -200,7 +220,7 @@
 |-----------|-----------|-------|
 | **Each Shift** | Egress clear, exit signs, propped doors, O₂ safety, fire watch status | K211, K291, K293, K223, K346, K354, K925 |
 | **Daily** | Full facility walk, construction area egress, extinguisher visual, O₂ cylinder storage | K791, K355, K923 |
-| **Weekly** | **Generator inspection**, sprinkler gauges/valves, fire pump churn, FACP status, medical gas | K918, K353, K352, K345 |
+| **Weekly** | **Generator inspection**, sprinkler gauges/valves, fire pump churn, FACP status, medical gas, handrails, call system, equipment visual, bed rail spot check | K918, K353, K352, K345, §483.90 |
 | **Monthly** | Generator load test (30 min), elevator firefighter's service, LIM test | K918, K531, K914 |
 | **Quarterly** | Fire drills (each shift) | K712 |
 | **Annually** | Fire alarm test, sprinkler test, door assembly inspection, extinguisher service | K345, K353, K761, K355 |

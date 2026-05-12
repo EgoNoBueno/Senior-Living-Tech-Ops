@@ -169,6 +169,22 @@
 
 ---
 
+## 12. Physical Environment — Shift Check (§483.90)
+
+> Reference: 42 CFR §483.90(g), §483.90(i)(3), §483.10(i)(5–6)
+
+| # | Task | Pass | Fail | N/A | Notes |
+|---|------|------|------|-----|-------|
+| 12.1 | Resident call system — spot check from at least 1 patient room bedside per unit (§483.90(g)) | | | | |
+| 12.2 | Resident call system — spot check from at least 1 toilet / bathing facility per unit (§483.90(g)) | | | | |
+| 12.3 | Corridor handrails present and firmly secured on both sides during egress walk (§483.90(i)(3)) | | | | |
+| 12.4 | Adequate lighting operational in corridors, patient rooms, and common areas (§483.10(i)(5)) | | | | |
+| 12.5 | Facility temperature within comfortable and safe range — 71–81°F for facilities certified after 10/1/1990 (§483.10(i)(6)) | | | | |
+
+**Temperature Reading(s):** _________ °F  (Location: _______________)
+
+---
+
 ## Summary / Sign-Off
 
 **Deficiencies Found:** ☐ Yes ☐ No  

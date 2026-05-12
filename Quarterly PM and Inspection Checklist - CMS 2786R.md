@@ -227,6 +227,29 @@
 
 ---
 
+## 9. Physical Environment — Quarterly Compliance Walk (§483.90)
+
+> Reference: 42 CFR §483.90(a)(5), §483.90(d), §483.90(e), §483.90(g), §483.90(h), §483.90(i) | §483.25(n) | §483.10(i)
+
+| # | Task | Pass | Fail | N/A | Notes |
+|---|------|------|------|-----|-------|
+| 9.1 | Corridor handrails — full facility inspection; firmly secured, no loose mounts, present on both sides (§483.90(i)(3)) | | | | |
+| 9.2 | Resident call system — full facility test from bedside and toilet/bathing facility in each room (§483.90(g)) | | | | |
+| 9.3 | Bed frames, mattresses, and bed rails — comprehensive inspection for entrapment hazards, structural damage, and manufacturer compatibility (§483.90(d)(3), §483.25(n)) | | | | |
+| 9.4 | Battery-operated smoke alarms in resident sleeping rooms and common areas — test and battery check per manufacturer recommendations (§483.90(a)(5)) | | | | |
+| 9.5 | Pest control — quarterly evidence review; confirm no pest or rodent activity; verify service records are current (§483.90(i)(4)) | | | | |
+| 9.6 | Temperature — facility thermostats functional; 71–81°F maintained in all patient areas (§483.10(i)(6)) | | | | |
+| 9.7 | Outside windows — present in all resident sleeping rooms; sill height ≤36" in buildings certified after 7/5/2016 (§483.90(e)(1)(vi)–(vii)) | | | | |
+| 9.8 | Emergency water supply procedures — written procedures available and staff are aware of steps to take during water supply loss (§483.90(i)(1)) | | | | |
+| 9.9 | Ventilation — adequate outside ventilation present via windows, mechanical ventilation, or combination (§483.90(i)(2)) | | | | |
+| 9.10 | Dining and activity rooms — well-lighted, well-ventilated, adequately furnished, and sufficient space for all activities (§483.90(h)) | | | | |
+| 9.11 | Mechanical, electrical, and patient care equipment — maintained in safe operating condition; no outstanding unsafe conditions (§483.90(d)(2)) | | | | |
+
+**Bed rail / entrapment deficiencies found:** __________  **Work order(s) submitted:** ☐ Yes ☐ No  WO#: __________  
+**Smoke alarm batteries replaced this quarter:** ☐ Yes ☐ No ☐ N/A  
+
+---
+
 ## Summary / Sign-Off
 
 **All three shift fire drills completed:** ☐ Yes ☐ No  
@@ -256,7 +279,7 @@
 | **Daily** | Full facility walk, construction area egress, extinguisher visual, O₂ cylinder storage | K791, K355, K923 |
 | **Weekly** | Generator inspection, sprinkler gauges/valves, fire pump churn, FACP status, medical gas | K918, K353, K352, K345 |
 | **Monthly** | Generator load test (30 min), elevator firefighter's service, LIM test | K918, K531, K914 |
-| **Quarterly** | **Fire drills (all 3 shifts)**, waterflow/supervisory alarm test, fire alarm device test, evacuation plan review | K712, K353, K345, K711 |
+| **Quarterly** | **Fire drills (all 3 shifts)**, waterflow/supervisory alarm test, fire alarm device test, evacuation plan review, physical environment walk, bed rail inspection, smoke alarm batteries | K712, K353, K345, K711, §483.90, §483.25(n) |
 | **Annually** | Fire alarm full test, sprinkler full test, door assembly inspection, extinguisher service, emergency lighting 90-min test | K345, K353, K761, K355, K291 |
 
 ---
