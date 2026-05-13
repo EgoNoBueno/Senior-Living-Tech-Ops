@@ -342,6 +342,9 @@ Confirm all lower-frequency tasks are fully documented for the year.
 | Physical environment quarterly compliance walks (4 quarters) | §483.90 | ☐ Yes ☐ No | |
 | Pest control monthly service records (12 months) | §483.90(i)(4) | ☐ Yes ☐ No | |
 | Resident call system monthly tests (12 months) | §483.90(g) | ☐ Yes ☐ No | |
+| Resident-use water temperature logs (12 months) | §483.90(d)(2), §483.90(i)(1) | ☐ Yes ☐ No | |
+| HVAC filter service records (12 months) | §483.90(d)(2), §483.90(i)(2) | ☐ Yes ☐ No | |
+| Weekly kitchen and food-service equipment PM logs (52 weeks) | §483.90(d)(2), §483.90(h) | ☐ Yes ☐ No | |
 
 ---
 
@@ -382,27 +385,40 @@ Confirm all lower-frequency tasks are fully documented for the year.
 | Floor: ______ | ☐ Yes ☐ No | ☐ Yes ☐ No | ☐ Yes ☐ No | |
 | Basement / Mechanical | ☐ Yes ☐ No | ☐ Yes ☐ No | ☐ Yes ☐ No | |
 
-### 16D. Battery-Operated Smoke Alarms in Resident Sleeping Rooms and Common Areas (§483.90(a)(5))
+### 16D. Bathroom Grab Bars (§483.90(i)(3))
+
+| Bathroom / Area | Grab Bars Present | Firmly Secured — No Loose Mounts | No Visible Damage | Pass / Fail |
+|----------------|-------------------|----------------------------------|------------------|-------------|
+| Bathroom: ______ | ☐ Yes ☐ No | ☐ Yes ☐ No | ☐ Yes ☐ No | |
+| Bathroom: ______ | ☐ Yes ☐ No | ☐ Yes ☐ No | ☐ Yes ☐ No | |
+| Bathroom: ______ | ☐ Yes ☐ No | ☐ Yes ☐ No | ☐ Yes ☐ No | |
+| Shower / Bath Area: ______ | ☐ Yes ☐ No | ☐ Yes ☐ No | ☐ Yes ☐ No | |
+
+### 16E. Battery-Operated Smoke Alarms in Resident Sleeping Rooms and Common Areas (§483.90(a)(5))
 
 | # | Task | Complete | Notes |
 |---|------|----------|-------|
-| 16D.1 | Battery-operated single station smoke alarms present in all required areas (N/A if system-based detectors or fully sprinklered per §483.90(a)(5)(iii)) | ☐ Yes ☐ No ☐ N/A | |
-| 16D.2 | All smoke alarms tested per manufacturer recommendations | ☐ Yes ☐ No ☐ N/A | |
-| 16D.3 | Batteries replaced per manufacturer schedule | ☐ Yes ☐ No ☐ N/A | |
-| 16D.4 | Inspection, testing, and maintenance records retained on-site | ☐ Yes ☐ No | |
+| 16E.1 | Battery-operated single station smoke alarms present in all required areas (N/A if system-based detectors or fully sprinklered per §483.90(a)(5)(iii)) | ☐ Yes ☐ No ☐ N/A | |
+| 16E.2 | All smoke alarms tested per manufacturer recommendations | ☐ Yes ☐ No ☐ N/A | |
+| 16E.3 | Batteries replaced per manufacturer schedule | ☐ Yes ☐ No ☐ N/A | |
+| 16E.4 | Inspection, testing, and maintenance records retained on-site | ☐ Yes ☐ No | |
 
-### 16E. Other Physical Environment Requirements (§483.90(i), §483.10(i))
+### 16F. Other Physical Environment Requirements (§483.90(i), §483.10(i))
 
 | # | Task | Complete | Notes |
 |---|------|----------|-------|
-| 16E.1 | Emergency water supply procedures documented and staff trained on steps during water supply loss (§483.90(i)(1)) | ☐ Yes ☐ No | |
-| 16E.2 | Adequate outside ventilation verified — windows, mechanical ventilation, or combination functional (§483.90(i)(2)) | ☐ Yes ☐ No | |
-| 16E.3 | Pest control program — annual contract or service review; 12 months of service records on file (§483.90(i)(4)) | ☐ Yes ☐ No | |
-| 16E.4 | Temperature monitoring records reviewed — 71–81°F maintained in patient areas year-round (§483.10(i)(6)) | ☐ Yes ☐ No | |
-| 16E.5 | Patient care equipment maintenance program — documented program in place; all mechanical, electrical, and patient care equipment maintained in safe operating condition (§483.90(d)(2)) | ☐ Yes ☐ No | |
-| 16E.6 | Dining and activity room requirements met — well-lighted, ventilated, adequately furnished, sufficient space (§483.90(h)) | ☐ Yes ☐ No | |
-| 16E.7 | Housekeeping and maintenance services — facility interior maintained in a sanitary, orderly, and comfortable condition (§483.10(i)(2)) | ☐ Yes ☐ No | |
-| 16E.8 | Preventive maintenance program effectiveness reviewed annually (completion rates, overdue high-risk PMs, repeat failures, corrective actions) (§483.90(d)(2)) | ☐ Yes ☐ No | |
+| 16F.1 | Emergency water supply procedures documented and staff trained on steps during water supply loss (§483.90(i)(1)) | ☐ Yes ☐ No | |
+| 16F.2 | Adequate outside ventilation verified — windows, mechanical ventilation, or combination functional (§483.90(i)(2)) | ☐ Yes ☐ No | |
+| 16F.3 | Pest control program — annual contract or service review; 12 months of service records on file (§483.90(i)(4)) | ☐ Yes ☐ No | |
+| 16F.4 | Temperature monitoring records reviewed — 71–81°F maintained in patient areas year-round (§483.10(i)(6)) | ☐ Yes ☐ No | |
+| 16F.5 | Patient care equipment maintenance program — documented program in place; all mechanical, electrical, and patient care equipment maintained in safe operating condition (§483.90(d)(2)) | ☐ Yes ☐ No | |
+| 16F.6 | Dining and activity room requirements met — well-lighted, ventilated, adequately furnished, sufficient space (§483.90(h)) | ☐ Yes ☐ No | |
+| 16F.7 | Housekeeping and maintenance services — facility interior maintained in a sanitary, orderly, and comfortable condition (§483.10(i)(2)) | ☐ Yes ☐ No | |
+| 16F.8 | Preventive maintenance program effectiveness reviewed annually (completion rates, overdue high-risk PMs, repeat failures, corrective actions) (§483.90(d)(2)) | ☐ Yes ☐ No | |
+| 16F.9 | Resident-use water temperature logs reviewed for the year; excursions investigated and corrected (§483.90(d)(2), §483.90(i)(1)) | ☐ Yes ☐ No | |
+| 16F.10 | HVAC filter service records reviewed for the year; overdue service corrected (§483.90(d)(2), §483.90(i)(2)) | ☐ Yes ☐ No | |
+| 16F.11 | Weekly kitchen and food-service equipment PM logs reviewed for the year; repeat failures addressed (§483.90(d)(2), §483.90(h)) | ☐ Yes ☐ No | |
+| 16F.12 | Bathroom grab bar inspection records reviewed for the year; repeat loose/damaged fixtures corrected (§483.90(i)(3)) | ☐ Yes ☐ No | |
 
 ---
 

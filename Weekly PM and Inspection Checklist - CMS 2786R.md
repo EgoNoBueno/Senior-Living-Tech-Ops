@@ -190,9 +190,26 @@
 | 10.6 | Mechanical, electrical, and patient-care equipment — no visible damage, fluid leaks, or unsafe conditions (§483.90(d)(2)) | | | | |
 | 10.7 | Bed rails, frames, and mattresses — spot check for entrapment gaps, structural damage, or loose hardware (§483.90(d)(3), §483.25(n)) | | | | |
 | 10.8 | Dining and activity rooms — well-lighted, ventilated, adequately furnished, and sufficient space maintained (§483.90(h)) | | | | |
+| 10.9 | Bathroom grab bars — firmly secured, no loose mounts or damage, and available in resident-use bathing/toilet areas (§483.90(i)(3)) | | | | |
 
 **Handrail deficiencies found:** _____________  **Call system failures found:** _____________  
 **Work order(s) submitted:** ☐ Yes ☐ No  WO#: __________
+
+---
+
+## 11. Kitchen and Food-Service Equipment — Weekly PM Check
+
+> Reference: 42 CFR §483.90(d)(2), §483.90(h); NFPA 96 | Facility preventive maintenance and sanitation program
+
+| # | Task | Pass | Fail | N/A | Notes |
+|---|------|------|------|-----|-------|
+| 11.1 | Cooking equipment, hot holding equipment, and prep equipment — clean, intact, and operating normally | | | | |
+| 11.2 | Hood exterior, fan housing, and visible grease accumulation — cleaned or scheduled for service per NFPA 96 guidance | | | | |
+| 11.3 | Grease traps / grease management devices — inspected and serviced per facility schedule | | | | |
+| 11.4 | Refrigerators, freezers, and reach-ins — temperatures within safe range and log maintained | | | | |
+| 11.5 | Door gaskets, seals, latches, and hinges on food-service equipment — intact and functional | | | | |
+| 11.6 | Kitchen exhaust and make-up air components — no abnormal noise, vibration, or airflow loss; inspect per NFPA 96 guidance | | | | |
+| 11.7 | Any failed food-service equipment reported for repair and removed from service if needed | | | | |
 
 ---
 
@@ -220,7 +237,7 @@
 |-----------|-----------|-------|
 | **Each Shift** | Egress clear, exit signs, propped doors, O₂ safety, fire watch status | K211, K291, K293, K223, K346, K354, K925 |
 | **Daily** | Full facility walk, construction area egress, extinguisher visual, O₂ cylinder storage | K791, K355, K923 |
-| **Weekly** | **Generator inspection**, sprinkler gauges/valves, fire pump churn, FACP status, medical gas, handrails, call system, equipment visual, bed rail spot check | K918, K353, K352, K345, §483.90 |
+| **Weekly** | **Generator inspection**, sprinkler gauges/valves, fire pump churn, FACP status, medical gas, handrails, call system, equipment visual, bed rail spot check, kitchen / food-service equipment PM | K918, K353, K352, K345, §483.90 |
 | **Monthly** | Generator load test (30 min), elevator firefighter's service, LIM test | K918, K531, K914 |
 | **Quarterly** | Fire drills (each shift) | K712 |
 | **Annually** | Fire alarm test, sprinkler test, door assembly inspection, extinguisher service | K345, K353, K761, K355 |
