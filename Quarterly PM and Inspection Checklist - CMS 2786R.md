@@ -244,6 +244,7 @@
 | 9.9 | Ventilation — adequate outside ventilation present via windows, mechanical ventilation, or combination (§483.90(i)(2)) | | | | |
 | 9.10 | Dining and activity rooms — well-lighted, well-ventilated, adequately furnished, and sufficient space for all activities (§483.90(h)) | | | | |
 | 9.11 | Mechanical, electrical, and patient care equipment — maintained in safe operating condition; no outstanding unsafe conditions (§483.90(d)(2)) | | | | |
+| 9.12 | Preventive maintenance completion review — overdue high-risk PM tasks tracked with corrective action plan (§483.90(d)(2)) | | | | |
 
 **Bed rail / entrapment deficiencies found:** __________  **Work order(s) submitted:** ☐ Yes ☐ No  WO#: __________  
 **Smoke alarm batteries replaced this quarter:** ☐ Yes ☐ No ☐ N/A  

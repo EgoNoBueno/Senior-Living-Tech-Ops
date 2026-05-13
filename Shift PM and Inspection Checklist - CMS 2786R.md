@@ -180,6 +180,7 @@
 | 12.3 | Corridor handrails present and firmly secured on both sides during egress walk (§483.90(i)(3)) | | | | |
 | 12.4 | Adequate lighting operational in corridors, patient rooms, and common areas (§483.10(i)(5)) | | | | |
 | 12.5 | Facility temperature within comfortable and safe range — 71–81°F for facilities certified after 10/1/1990 (§483.10(i)(6)) | | | | |
+| 12.6 | No visible unsafe condition with mechanical, electrical, or patient care equipment in inspected areas (§483.90(d)(2)) | | | | |
 
 **Temperature Reading(s):** _________ °F  (Location: _______________)
 

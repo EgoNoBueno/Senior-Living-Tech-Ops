@@ -104,6 +104,7 @@
 | 5.7 | Housekeeping and maintenance — sanitary, orderly, and comfortable interior confirmed (§483.10(i)(2)) | | | | |
 | 5.8 | Dining and activity rooms — well-lighted, ventilated, adequately furnished, sufficient space for activities (§483.90(h)) | | | | |
 | 5.9 | Emergency water supply procedures — documented and accessible to staff (§483.90(i)(1)) | | | | |
+| 5.10 | Preventive maintenance schedule reviewed; overdue high-risk mechanical/electrical/patient-care PM work orders escalated (§483.90(d)(2)) | | | | |
 
 **Pest control service date this month:** __________  **Service report on file:** ☐ Yes ☐ No  
 **Resident call system failures found:** __________  **Work order(s) submitted:** ☐ Yes ☐ No  WO#: __________

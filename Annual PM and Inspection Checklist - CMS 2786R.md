@@ -402,6 +402,7 @@ Confirm all lower-frequency tasks are fully documented for the year.
 | 16E.5 | Patient care equipment maintenance program — documented program in place; all mechanical, electrical, and patient care equipment maintained in safe operating condition (§483.90(d)(2)) | ☐ Yes ☐ No | |
 | 16E.6 | Dining and activity room requirements met — well-lighted, ventilated, adequately furnished, sufficient space (§483.90(h)) | ☐ Yes ☐ No | |
 | 16E.7 | Housekeeping and maintenance services — facility interior maintained in a sanitary, orderly, and comfortable condition (§483.10(i)(2)) | ☐ Yes ☐ No | |
+| 16E.8 | Preventive maintenance program effectiveness reviewed annually (completion rates, overdue high-risk PMs, repeat failures, corrective actions) (§483.90(d)(2)) | ☐ Yes ☐ No | |
 
 ---
 

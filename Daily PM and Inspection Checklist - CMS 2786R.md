@@ -214,6 +214,7 @@ Walk every corridor, stairwell, and exit discharge path on each occupied floor.
 | 14.5 | Facility temperature within comfortable and safe range — 71–81°F in patient areas (§483.10(i)(6)) | | | | |
 | 14.6 | No evidence of pest or rodent activity in patient care areas, dining, or food storage (§483.90(i)(4)) | | | | |
 | 14.7 | Dining and activity areas well-lighted, ventilated, and free of obstruction to use (§483.90(h)) | | | | |
+| 14.8 | No visible unsafe condition with mechanical, electrical, or patient care equipment in occupied areas (§483.90(d)(2)) | | | | |
 
 **Temperature Reading(s):** _________ °F  (Location: _______________)
 
