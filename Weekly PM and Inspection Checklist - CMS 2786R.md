@@ -213,6 +213,13 @@
 
 ---
 
+## Updates for Emergency Preparedness
+
+- **Emergency Equipment Inspection**: Inspect emergency equipment (e.g., generators, fire extinguishers) for readiness. *(Not specifically required by CMS, but recommended as a best practice.)*
+- **Staff Training Review**: Confirm that staff are aware of their roles in the incident command structure. *(Not specifically required by CMS, but recommended as a best practice.)*
+
+---
+
 ## Summary / Sign-Off
 
 **Total Deficiencies Found:** _________  

@@ -116,6 +116,16 @@
 
 ---
 
+## Updates for E-Tag Compliance
+
+- **Monthly Cold Start**: Ensure language specifies alignment with emergency preparedness requirements.
+- **Quarterly Pull Station Test**: Update frequency to annual as per E-Tag guidelines.
+- **Annual Inspector Test**: Adjust duration from 60 seconds to 90 seconds.
+- **Weekly Summary**: Update K-Tag reference from K341 to K345.
+- **Long-Cycle Section B Header**: Correct header to reflect 5-year cycle instead of 6-year cycle.
+
+---
+
 ## Summary / Sign-Off
 
 **Deficiencies Found:** ☐ Yes ☐ No

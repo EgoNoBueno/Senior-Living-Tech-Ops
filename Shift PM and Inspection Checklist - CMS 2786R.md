@@ -186,6 +186,12 @@
 
 ---
 
+## Updates for Emergency Preparedness
+
+- **Incident Command Readiness**: Verify that the incident command structure is accessible and functional during each shift. *(Not specifically required by CMS, but recommended as a best practice.)*
+
+---
+
 ## Summary / Sign-Off
 
 **Deficiencies Found:** ☐ Yes ☐ No  

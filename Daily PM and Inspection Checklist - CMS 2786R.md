@@ -220,6 +220,12 @@ Walk every corridor, stairwell, and exit discharge path on each occupied floor.
 
 ---
 
+## Updates for Emergency Preparedness
+
+- **Communication Plan Check**: Ensure that all communication devices (e.g., phones, radios) are operational and ready for emergency use. *(Not specifically required by CMS, but recommended as a best practice.)*
+
+---
+
 ## Summary / Sign-Off
 
 **Total Deficiencies Found:** _________  

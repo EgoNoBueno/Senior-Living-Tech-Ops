@@ -251,6 +251,12 @@
 
 ---
 
+## Updates for Emergency Preparedness
+
+- **Drill and Exercise Review**: Conduct a review of recent emergency drills and exercises to ensure compliance with the training and testing program. *(Not specifically required by CMS, but recommended as a best practice.)*
+
+---
+
 ## Summary / Sign-Off
 
 **All three shift fire drills completed:** ☐ Yes ☐ No  
