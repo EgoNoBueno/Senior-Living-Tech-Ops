@@ -1,16 +1,71 @@
 # Weekly PM and Inspection Checklist
 ### Based on CMS Form 2786R (07/2018) — 2012 Life Safety Code (Healthcare)
 
-**Facility Name:**  
-**Building / Wing / Floor(s):**  
-**Week of:** __________ to __________  
-**Date Completed:**  
-**Completed By:**  
-**Title:**  
+## Table of Contents
+1. Introduction
+2. Weekly Tasks
+3. Compliance References
+4. Notes and Guidance
+5. Follow-Up Actions
+6. Summary Section
+7. Document Revision History
 
 ---
 
-## 1. Generator / Essential Electric System — Weekly Inspection (K918) ⭐ *REQUIRED WEEKLY*
+## Introduction
+This checklist is designed to help facility staff and inspectors perform regular, systematic inspections and maintenance of critical safety systems. It covers generator, fire protection, medical gas, HVAC, and other essential systems, ensuring compliance with CMS and NFPA standards.
+
+## Weekly Tasks
+The following tasks must be performed weekly to maintain safety and compliance.
+
+## Compliance References
+- **Generator / Essential Electric System — Weekly Inspection (K918)**
+  - Reference: 6.4.4, 6.5.4, 6.6.4 (NFPA 99) | NFPA 110
+  - **Generator sets must be inspected weekly per NFPA 110.**
+- **Automatic Sprinkler System — Weekly Gauge and Valve Inspection (K353, K352)**
+  - Reference: 9.7.5, 9.7.7, 9.7.8 (LSC) | NFPA 25 (Standard for the Inspection, Testing, and Maintaining of Water-Based Fire Protection Systems)
+  - NFPA 25 requires wet-pipe system gauges and control valves be inspected **weekly** (or monthly if electronically supervised).
+- **Fire Pump — Weekly Inspection / Churn Test (K353)**
+  - Reference: NFPA 25, Chapter 8
+  - Electric-drive fire pumps: **weekly churn test**. Diesel-drive fire pumps: **weekly 30-minute run**.  
+  - *(Mark N/A if no fire pump is installed)*
+- **Standpipe System — Weekly Gauge Check (K353)**
+  - Reference: NFPA 25, Chapter 6
+  - *(Mark N/A if no standpipe system is installed)*
+- **Fire Alarm Control Panel — Weekly Status Review (K341, K344, K345)**
+  - Reference: 18.3.4.1, 19.3.4.1 | 9.6.1.3, 9.6.1.5 | NFPA 72
+- **Medical Gas System — Weekly Visual Check (K907, K909)**
+  - Reference: 5.1.14.2.1, 5.1.15 | 5.1.11.1, 5.1.11.2 (NFPA 99)
+- **HVAC — Weekly Visual Check (K521, K522)**
+  - Reference: 18.5.2.1, 19.5.2.1, 9.2
+- **Portable Fire Extinguishers — Weekly Visual (K355)**
+  - Reference: 18.3.5.12, 19.3.5.12 | NFPA 10
+- **Means of Egress — Weekly Comprehensive Walk (K211, K791)**
+  - Reference: 18.2.1, 19.2.1 | 18.7.9, 19.7.9
+- **Physical Environment — Weekly Walk (§483.90)**
+  - Reference: 42 CFR §483.90(d)(2–3), §483.90(g), §483.90(h), §483.90(i) | §483.25(n) | §483.10(i)
+- **Kitchen and Food-Service Equipment — Weekly PM Check**
+  - Reference: 42 CFR §483.90(d)(2), §483.90(h); NFPA 96 | Facility preventive maintenance and sanitation program
+
+---
+
+## Notes and Guidance
+- Provide examples or guidance in the "Notes" column for common issues or observations.
+- Include specific details to help inspectors identify and address potential problems.
+
+---
+
+## Follow-Up Actions
+| Task # | Description | Follow-Up Action Required | Assigned To | Target Date |
+|--------|-------------|---------------------------|-------------|-------------|
+| 1      |             |                           |             |             |
+| 2      |             |                           |             |             |
+
+---
+
+## Weekly Tasks
+
+### 1. Generator / Essential Electric System — Weekly Inspection (K918) ⭐ *REQUIRED WEEKLY*
 
 > Reference: 6.4.4, 6.5.4, 6.6.4 (NFPA 99) | NFPA 110  
 > **Generator sets must be inspected weekly per NFPA 110.**
@@ -42,7 +97,7 @@
 
 ---
 
-## 2. Automatic Sprinkler System — Weekly Gauge and Valve Inspection (K353, K352)
+### 2. Automatic Sprinkler System — Weekly Gauge and Valve Inspection (K353, K352)
 
 > Reference: 9.7.5, 9.7.7, 9.7.8 (LSC) | NFPA 25 (Standard for the Inspection, Testing, and Maintaining of Water-Based Fire Protection Systems)  
 > NFPA 25 requires wet-pipe system gauges and control valves be inspected **weekly** (or monthly if electronically supervised).
@@ -62,7 +117,7 @@
 
 ---
 
-## 3. Fire Pump — Weekly Inspection / Churn Test (K353)
+### 3. Fire Pump — Weekly Inspection / Churn Test (K353)
 
 > Reference: NFPA 25, Chapter 8  
 > Electric-drive fire pumps: **weekly churn test**. Diesel-drive fire pumps: **weekly 30-minute run**.  
@@ -85,20 +140,20 @@
 
 ---
 
-## 4. Standpipe System — Weekly Gauge Check (K353)
+### 4. Standpipe System — Weekly Gauge Check (K353)
 
 > Reference: NFPA 25, Chapter 6  
 > *(Mark N/A if no standpipe system is installed)*
 
 | Standpipe Location / Floor | Pressure Gauge Reading | Normal Range | Pass / Fail |
 |---------------------------|----------------------|--------------|-------------|
-| | _____ PSI | | |
-| | _____ PSI | | |
-| | _____ PSI | | |
+| | _____ PSI | | | |
+| | _____ PSI | | | |
+| | _____ PSI | | | |
 
 ---
 
-## 5. Fire Alarm Control Panel — Weekly Status Review (K341, K344, K345)
+### 5. Fire Alarm Control Panel — Weekly Status Review (K341, K344, K345)
 
 > Reference: 18.3.4.1, 19.3.4.1 | 9.6.1.3, 9.6.1.5 | NFPA 72
 
@@ -117,7 +172,7 @@
 
 ---
 
-## 6. Medical Gas System — Weekly Visual Check (K907, K909)
+### 6. Medical Gas System — Weekly Visual Check (K907, K909)
 
 > Reference: 5.1.14.2.1, 5.1.15 | 5.1.11.1, 5.1.11.2 (NFPA 99)
 
@@ -134,7 +189,7 @@
 
 ---
 
-## 7. HVAC — Weekly Visual Check (K521, K522)
+### 7. HVAC — Weekly Visual Check (K521, K522)
 
 > Reference: 18.5.2.1, 19.5.2.1, 9.2
 
@@ -147,7 +202,7 @@
 
 ---
 
-## 8. Portable Fire Extinguishers — Weekly Visual (K355)
+### 8. Portable Fire Extinguishers — Weekly Visual (K355)
 
 > Reference: 18.3.5.12, 19.3.5.12 | NFPA 10
 
@@ -162,7 +217,7 @@
 
 ---
 
-## 9. Means of Egress — Weekly Comprehensive Walk (K211, K791)
+### 9. Means of Egress — Weekly Comprehensive Walk (K211, K791)
 
 > Reference: 18.2.1, 19.2.1 | 18.7.9, 19.7.9
 
@@ -176,7 +231,7 @@
 
 ---
 
-## 10. Physical Environment — Weekly Walk (§483.90)
+### 10. Physical Environment — Weekly Walk (§483.90)
 
 > Reference: 42 CFR §483.90(d)(2–3), §483.90(g), §483.90(h), §483.90(i) | §483.25(n) | §483.10(i)
 
@@ -197,7 +252,7 @@
 
 ---
 
-## 11. Kitchen and Food-Service Equipment — Weekly PM Check
+### 11. Kitchen and Food-Service Equipment — Weekly PM Check
 
 > Reference: 42 CFR §483.90(d)(2), §483.90(h); NFPA 96 | Facility preventive maintenance and sanitation program
 
@@ -215,7 +270,7 @@
 
 ## Updates for Emergency Preparedness
 
-- **Emergency Equipment Inspection**: Inspect emergency equipment (e.g., generators, fire extinguishers) for readiness. *(Not specifically required by CMS, but recommended as a best practice.)*
+- **Emergency Equipment Inspection**: Confirm Sections 1 (Generator / Essential Electric System inspection — K918) and 8 (Portable Fire Extinguishers visual inspection — K355) have been completed and are up to date.
 - **Staff Training Review**: Confirm that staff are aware of their roles in the incident command structure. *(Not specifically required by CMS, but recommended as a best practice.)*
 
 ---
@@ -223,32 +278,18 @@
 ## Summary / Sign-Off
 
 **Total Deficiencies Found:** _________  
+**Immediate Corrective Actions Taken:** ☐ Yes ☐ No ☐ N/A  
 **Work Orders Submitted:** ☐ Yes ☐ No  WO#(s): ____________________________  
-**Items Escalated to Management:** ☐ Yes ☐ No  
+**Items Requiring Follow-Up:** ☐ Yes ☐ No
 
-| # | K-Tag | System / Location | Deficiency Description | Work Order # | Target Resolution |
-|---|-------|-------------------|------------------------|-------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-
-**Inspector Signature:** _______________________ **Date:** _____________  
-**Supervisor / Director Signature:** _______________________ **Date:** _____________  
+| # | K-Tag | Location / Description | Action Required | Assigned To | Target Date |
+|---|-------|------------------------|-----------------|-------------|-------------|
+| 1 |       |                        |                 |             |             |
+| 2 |       |                        |                 |             |             |
 
 ---
 
-## Inspection Frequency Reference
-
-| Frequency | Key Items | K-Tag |
-|-----------|-----------|-------|
-| **Each Shift** | Egress clear, exit signs, propped doors, O₂ safety, fire watch status | K211, K291, K293, K223, K346, K354, K925 |
-| **Daily** | Full facility walk, construction area egress, extinguisher visual, O₂ cylinder storage | K791, K355, K923 |
-| **Weekly** | **Generator inspection**, sprinkler gauges/valves, fire pump churn, FACP status, medical gas, handrails, call system, equipment visual, bed rail spot check, kitchen / food-service equipment PM | K918, K353, K352, K345, §483.90 |
-| **Monthly** | Generator load test (30 min), elevator firefighter's service, LIM test | K918, K531, K914 |
-| **Quarterly** | Fire drills (each shift) | K712 |
-| **Annually** | Fire alarm test, sprinkler test, door assembly inspection, extinguisher service | K345, K353, K761, K355 |
-
----
-
-*Form based on CMS-2786R (07/2018) and NFPA 10, 25, 72, 99, 110. Retain completed checklists as part of the facility maintenance record.*
+## Document Revision History
+| Revision | Date       | Description of Changes       | Updated By |
+|----------|------------|-----------------------------|------------|
+| 1.0      | 2026-05-18 | Initial draft with updates. |            |

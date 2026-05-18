@@ -1,13 +1,47 @@
 # Quarterly PM and Inspection Checklist
 ### Based on CMS Form 2786R (07/2018) — 2012 Life Safety Code (Healthcare)
 
-**Facility Name:**  
-**Building / Wing / Floor(s):**  
-**Quarter:** ☐ Q1 (Jan–Mar)  ☐ Q2 (Apr–Jun)  ☐ Q3 (Jul–Sep)  ☐ Q4 (Oct–Dec)  
-**Year:**  
-**Date Completed:**  
-**Completed By:**  
-**Title:**  
+## Table of Contents
+1. Introduction
+2. Quarterly Tasks
+3. Compliance References
+4. Notes and Guidance
+5. Summary Section
+6. Document Revision History
+
+---
+
+## Notes and Guidance
+- Provide examples or guidance in the "Notes" column for common issues or observations.
+- Include specific details to help inspectors identify and address potential problems.
+
+---
+
+## Follow-Up Actions
+| Task # | Description | Follow-Up Action Required | Assigned To | Target Date |
+|--------|-------------|---------------------------|-------------|-------------|
+| 1      |             |                           |             |             |
+| 2      |             |                           |             |             |
+
+---
+
+## Summary Section
+**Total Deficiencies Found:** _________  
+**Immediate Corrective Actions Taken:** ☐ Yes ☐ No ☐ N/A  
+**Work Orders Submitted:** ☐ Yes ☐ No  WO#(s): ____________________________  
+**Items Requiring Follow-Up:** ☐ Yes ☐ No
+
+| # | K-Tag | Location / Description | Action Required | Assigned To | Target Date |
+|---|-------|------------------------|-----------------|-------------|-------------|
+| 1 |       |                        |                 |             |             |
+| 2 |       |                        |                 |             |             |
+
+---
+
+## Document Revision History
+| Revision | Date       | Description of Changes       | Updated By |
+|----------|------------|-----------------------------|------------|
+| 1.0      | 2026-05-18 | Initial draft with updates. |            |
 
 ---
 
@@ -253,7 +287,16 @@
 
 ## Updates for Emergency Preparedness
 
-- **Drill and Exercise Review**: Conduct a review of recent emergency drills and exercises to ensure compliance with the training and testing program. *(Not specifically required by CMS, but recommended as a best practice.)*
+### Drill and Exercise Review
+Conduct a review of recent emergency drills and exercises to ensure compliance with the training and testing program. Evaluate the following criteria:
+
+| Criterion                  | Pass | Fail | N/A | Findings                          | Corrective Action / Follow-Up | Reviewer Signature | Date       |
+|----------------------------|------|------|-----|-----------------------------------|--------------------------------|--------------------|------------|
+| Deficiencies noted         | ☐    | ☐    | ☐   |                                   |                                |                    |            |
+| Staff participation rates  | ☐    | ☐    | ☐   |                                   |                                |                    |            |
+| Timeliness/effectiveness   | ☐    | ☐    | ☐   |                                   |                                |                    |            |
+| Equipment/supply issues    | ☐    | ☐    | ☐   |                                   |                                |                    |            |
+| Lessons learned documented | ☐    | ☐    | ☐   |                                   |                                |                    |            |
 
 ---
 

@@ -1,12 +1,77 @@
 # Daily PM and Inspection Checklist
 ### Based on CMS Form 2786R (07/2018) — 2012 Life Safety Code (Healthcare)
 
-**Facility Name:**  
-**Building / Wing / Floor(s) Inspected:**  
-**Date:**  
-**Completed By:**  
-**Title:**  
-**Start Time:** __________ **End Time:** __________
+## Table of Contents
+1. Introduction
+2. Daily Tasks
+3. Compliance References
+4. Notes and Guidance
+5. Follow-Up Actions
+6. Summary Section
+7. Document Revision History
+
+---
+
+## Introduction
+This checklist is designed to ensure the safety and compliance of healthcare facilities with the 2012 Life Safety Code (Healthcare). It covers daily, monthly, quarterly, and annual tasks related to construction/renovation areas, means of egress, exit signs, emergency lighting, corridor and smoke barrier doors, hazardous areas, soiled linen and trash containers, portable fire extinguishers, alcohol-based hand rub dispensers, oxygen cylinder storage, portable space heaters, smoking compliance, fire alarm and sprinkler system status, combustible decorations, and physical environment.
+
+## Daily Tasks
+- Construction / Renovation Areas — Means of Egress (K791) ⭐ *REQUIRED DAILY*
+- Means of Egress — Full Facility Walk (K211)
+- Exit Signs and Emergency Lighting (K293, K291)
+- Corridor and Smoke Barrier Doors — Full Facility (K223, K363, K374)
+- Hazardous Areas — Doors and Conditions (K321)
+- Soiled Linen and Trash Containers (K754)
+- Portable Fire Extinguishers — Visual Inspection (K355)
+- Alcohol Based Hand Rub Dispensers — ABHR (K325)
+- Oxygen Cylinder Storage — Visual Check (K923, K906)
+- Portable Space Heaters (K781)
+- Smoking Compliance (K741)
+- Fire Alarm and Sprinkler System Status (K346, K354)
+- Combustible Decorations — Visual Check (K753, K751)
+- Physical Environment — Daily Check (§483.90)
+
+## Compliance References
+- 18.7.9, 19.7.9, 4.6.10, 7.1.10.1, NFPA 241
+- 18.2.1, 19.2.1, 7.1.10.1
+- 19.2.10.1, 18.2.10.1 | 18.2.9.1, 19.2.9.1
+- 18.2.2.2.7–2.2.2.8, 19.2.2.2.7–2.2.2.8 | 19.3.6.3, 18.3.6.3 | 19.3.7.6, 18.3.7.6
+- 19.3.2.1, 19.3.5.9 (Existing) | 18.3.2.1 (New)
+- 18.7.5.7, 19.7.5.7
+- 18.3.5.12, 19.3.5.12, NFPA 10
+- 18.3.2.6, 19.3.2.6
+- 11.3.1–11.3.4, 11.6.5 | 5.1.3.2, 5.1.3.3 (NFPA 99)
+- 18.7.8, 19.7.8
+- 18.7.4, 19.7.4
+- 9.6.1.6 (Fire Alarm) | 9.7.5, 15.5.2 NFPA 25 (Sprinkler)
+- 18.7.5.6, 19.7.5.6 | 18.7.5.1, 19.7.5.1
+- 42 CFR §483.90(g), §483.90(i), §483.10(i)
+
+## Notes and Guidance
+- Provide examples or guidance in the "Notes" column for common issues or observations.
+- Include specific details to help inspectors identify and address potential problems.
+
+## Follow-Up Actions
+| Task # | Description | Follow-Up Action Required | Assigned To | Target Date |
+|--------|-------------|---------------------------|-------------|-------------|
+| 1      |             |                           |             |             |
+| 2      |             |                           |             |             |
+
+## Summary Section
+**Total Deficiencies Found:** _________  
+**Immediate Corrective Actions Taken:** ☐ Yes ☐ No ☐ N/A  
+**Work Orders Submitted:** ☐ Yes ☐ No  WO#(s): ____________________________  
+**Items Requiring Follow-Up:** ☐ Yes ☐ No
+
+| # | K-Tag | Location / Description | Action Required | Assigned To | Target Date |
+|---|-------|------------------------|-----------------|-------------|-------------|
+| 1 |       |                        |                 |             |             |
+| 2 |       |                        |                 |             |             |
+
+## Document Revision History
+| Revision | Date       | Description of Changes       | Updated By |
+|----------|------------|-----------------------------|------------|
+| 1.0      | 2026-05-18 | Initial draft with updates. |            |
 
 ---
 
@@ -235,10 +300,8 @@ Walk every corridor, stairwell, and exit discharge path on each occupied floor.
 
 | # | K-Tag | Location / Description | Action Required | Assigned To | Target Date |
 |---|-------|------------------------|-----------------|-------------|-------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
+| 1 |       |                        |                 |             |             |
+| 2 |       |                        |                 |             |             |
 
 **Inspector Signature:** _______________________ **Date:** _____________  
 **Supervisor / Director Signature:** _______________________ **Date:** _____________  

@@ -1,17 +1,42 @@
 # Shift PM and Inspection Checklist
 ### Based on CMS Form 2786R (07/2018) — 2012 Life Safety Code (Healthcare)
 
-**Facility Name:**  
-**Building / Wing / Floor:**  
-**Shift:** ☐ Day (7a–3p)  ☐ Evening (3p–11p)  ☐ Night (11p–7a)  
-**Date:**  
-**Completed By:**  
-**Title:**  
+## Table of Contents
+1. Introduction
+2. Shift-Specific Tasks
+3. Compliance References
+4. Notes and Guidance
+5. Follow-Up Actions
+6. Summary Section
 
 ---
 
-## 1. Means of Egress — Clear and Unobstructed (K211)
+## Introduction
+This checklist is designed to ensure compliance with the 2012 Life Safety Code (Healthcare) and to support the facility's emergency preparedness and response efforts. It is used to document the status of various safety elements and to identify any deficiencies that need to be addressed.
 
+---
+
+## Shift-Specific Tasks
+- Clearly specify tasks required for each shift (e.g., morning, evening, night).
+- Include a table or list for quick reference.
+
+---
+
+## Notes and Guidance
+- Provide examples or guidance in the "Notes" column for common issues or observations.
+- Include specific details to help inspectors identify and address potential problems.
+
+---
+
+## Follow-Up Actions
+| Task # | Description | Follow-Up Action Required | Assigned To | Target Date |
+|--------|-------------|---------------------------|-------------|-------------|
+| 1      |             |                           |             |             |
+| 2      |             |                           |             |             |
+
+---
+
+## Compliance References
 > Reference: 18.2.1, 19.2.1, 7.1.10.1
 
 | # | Location | Clear | Obstructed | N/A | Notes |
@@ -27,8 +52,6 @@
 
 ---
 
-## 2. Exit Signage and Emergency Lighting (K293, K291)
-
 > Reference: 19.2.10.1, 18.2.10.1 (Exit Signs) | 18.2.9.1, 19.2.9.1 (Emergency Lighting)
 
 | # | Task | Pass | Fail | N/A | Notes |
@@ -39,8 +62,6 @@
 | 2.4 | No exit signs blocked or obstructed from view | | | | |
 
 ---
-
-## 3. Corridor and Smoke Barrier Doors (K223, K363, K374)
 
 > Reference: 18.2.2.2.7, 19.2.2.2.7 (Self-Closing) | 19.3.6.3, 18.3.6.3 (Corridor Doors) | 19.3.7.6, 18.3.7.6 (Smoke Barrier Doors)
 
@@ -55,8 +76,6 @@
 
 ---
 
-## 4. Hazardous Areas — Visual Check (K321)
-
 > Reference: 19.3.2.1, 19.3.5.9 (Existing) | 18.3.2.1 (New)
 
 | Area | Door Closed / Self-Latching | No Storage Overflow | Notes |
@@ -70,8 +89,6 @@
 
 ---
 
-## 5. Soiled Linen and Trash Containers (K754)
-
 > Reference: 18.7.5.7, 19.7.5.7
 
 | # | Task | Pass | Fail | N/A | Notes |
@@ -82,8 +99,6 @@
 | 5.4 | Containers are not overflowing into corridors or egress paths | | | | |
 
 ---
-
-## 6. Alcohol Based Hand Rub Dispensers — ABHR (K325)
 
 > Reference: 18.3.2.6, 19.3.2.6
 
@@ -97,8 +112,6 @@
 
 ---
 
-## 7. Portable Space Heaters (K781)
-
 > Reference: 18.7.8, 19.7.8
 
 | # | Task | Pass | Fail | N/A | Notes |
@@ -109,8 +122,6 @@
 > ⚠ Portable space heaters are prohibited in all patient care, sleeping, and treatment areas.
 
 ---
-
-## 8. Smoking Compliance (K741)
 
 > Reference: 18.7.4, 19.7.4
 
@@ -124,8 +135,6 @@
 
 ---
 
-## 9. Oxygen / Respiratory Therapy — Ignition Sources (K925)
-
 > Reference: 11.5.1.1, TIA 12-6 (NFPA 99)
 
 | # | Task | Pass | Fail | N/A | Notes |
@@ -136,8 +145,6 @@
 | 9.4 | No solid fuel-burning appliances in oxygen administration areas | | | | |
 
 ---
-
-## 10. Fire Alarm / Sprinkler System — Out of Service Status Check (K346, K354)
 
 > Reference: 9.6.1.6 (Fire Alarm) | 9.7.5, 15.5.2 NFPA 25 (Sprinkler)
 
@@ -157,8 +164,6 @@
 
 ---
 
-## 11. Combustible Decorations and Furnishings — Visual Check (K753, K751, K752)
-
 > Reference: 18.7.5.6, 19.7.5.6 | 18.7.5.1, 19.7.5.1 | 18.7.5.2, 19.7.5.2
 
 | # | Task | Pass | Fail | N/A | Notes |
@@ -168,8 +173,6 @@
 | 11.3 | No unapproved or non-flame-retardant decorations present | | | | |
 
 ---
-
-## 12. Physical Environment — Shift Check (§483.90)
 
 > Reference: 42 CFR §483.90(g), §483.90(i)(3), §483.10(i)(5–6)
 
@@ -188,12 +191,22 @@
 
 ## Updates for Emergency Preparedness
 
-- **Incident Command Readiness**: Verify that the incident command structure is accessible and functional during each shift. *(Not specifically required by CMS, but recommended as a best practice.)*
+### Incident Command Readiness
+Ensure the following items are reviewed and documented for each shift:
+
+| Shift (Date/Time) | Item                        | Result (Pass/Fail/N/A) | Verifier (Name) | Notes (Findings/Issues)         | Follow-Up / Action Required |
+|-------------------|-----------------------------|-------------------------|-----------------|---------------------------------|-----------------------------|
+|                   | Incident command contact list is current and accessible | ☐ Pass ☐ Fail ☐ N/A |                 |                                 |                             |
+|                   | Command post location(s) are identified and confirmed   | ☐ Pass ☐ Fail ☐ N/A |                 |                                 |                             |
+|                   | Communication equipment (radios, phones, backup power) is available and functioning | ☐ Pass ☐ Fail ☐ N/A |                 |                                 |                             |
+|                   | Assigned personnel and escalation/backup roles are on duty or reachable | ☐ Pass ☐ Fail ☐ N/A |                 |                                 |                             |
+|                   | Access to incident documentation and notification procedures is validated | ☐ Pass ☐ Fail ☐ N/A |                 |                                 |                             |
 
 ---
 
 ## Summary / Sign-Off
 
+**Emergency Preparedness Completed:** ☐ Yes ☐ No ☐ N/A  
 **Deficiencies Found:** ☐ Yes ☐ No  
 **Immediate Actions Taken:** ☐ Yes ☐ No ☐ N/A
 

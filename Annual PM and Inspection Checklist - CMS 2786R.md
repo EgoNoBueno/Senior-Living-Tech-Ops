@@ -422,6 +422,21 @@ Confirm all lower-frequency tasks are fully documented for the year.
 
 ---
 
+### Updates for Emergency Preparedness
+
+- **Comprehensive Emergency Plan Review**
+  - Verify Incident Command Structure (ICS) roles and contact list are current.
+  - Confirm interoperable communications tests are conducted and documented.
+  - Inventory and assess the status of critical resources and supplies.
+  - Validate staff safety and PPE protocols are up-to-date.
+
+- **Coordination with Local Agencies**
+  - Ensure mutual aid agreements are reviewed and signed.
+  - Confirm participation in joint training exercises with local emergency services.
+  - Validate communication channels with local agencies are functional and tested.
+
+---
+
 ## Summary / Sign-Off
 
 **All annual tasks completed:** ☐ Yes ☐ No  
@@ -462,8 +477,3 @@ Confirm all lower-frequency tasks are fully documented for the year.
 ---
 
 *Form based on CMS-2786R (07/2018) and NFPA 10, 17A, 25, 70, 72, 80, 92, 96, 99, 101, 110, 111. Retain completed checklists as part of the facility maintenance record. All test records must be readily available for CMS survey.*
-
-### Updates for Emergency Preparedness
-
-- **Comprehensive Emergency Plan Review**: Update and review the Emergency Plan, including risk assessments and policies. *(Not specifically required by CMS, but recommended as a best practice.)*
-- **Coordination with Local Agencies**: Verify coordination with local emergency management agencies and healthcare coalitions. *(Not specifically required by CMS, but recommended as a best practice.)*

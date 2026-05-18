@@ -1,5 +1,16 @@
 # Emergency Incident Command Document
 
+## Table of Contents
+1. Introduction
+2. Roles and Responsibilities
+3. Communication Protocols
+4. Emergency Scenarios
+5. Training and Drills
+6. Resource Inventory
+7. Post-Incident Review
+
+---
+
 ## Purpose
 This document outlines the expectations and requirements for emergency preparedness as per the CMS Emergency Preparedness Final Rule and E-Tag guidelines. It serves as a guide for establishing an Emergency Incident Command structure and ensuring compliance with regulatory standards.
 
@@ -52,3 +63,32 @@ This document outlines the expectations and requirements for emergency preparedn
 - [ ] Implement a Training and Testing Program.
 - [ ] Coordinate with local emergency management agencies.
 - [ ] Document all activities and updates.
+
+---
+
+## Roles and Responsibilities
+- Clearly define the roles and responsibilities of each team member in the incident command structure.
+- Include specific tasks and decision-making authority.
+
+---
+
+## Communication Protocols
+- Detail the chain of command and reporting lines.
+- Specify methods of communication (e.g., radios, phones).
+
+---
+
+## Emergency Scenarios
+- Provide examples of specific emergency scenarios and the corresponding actions to be taken.
+
+---
+
+## Post-Incident Review
+- Add a section for post-incident review and lessons learned to improve future responses.
+
+---
+
+## Document Revision History
+| Revision | Date       | Description of Changes       | Updated By |
+|----------|------------|-----------------------------|------------|
+| 1.0      | 2026-05-18 | Initial draft with updates. |            |

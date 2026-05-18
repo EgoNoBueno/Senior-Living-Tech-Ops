@@ -33,7 +33,7 @@ Complete all items before starting the 4-hour test.
 | 4 | Coolant level — within operating range | ☐ Yes ☐ No | |
 | 5 | Battery voltage and charger — normal | ☐ Yes ☐ No | Voltage: __________ V |
 | 6 | No active faults or alarm indicators on control panel | ☐ Yes ☐ No | |
-| 7 | Notify facility staff and department heads of planned test | ☐ Yes ☐ No | Notification Time: __________ |
+| 7 | Notify facility staff and department heads of planned test. Open a new work order for any problems found. | ☐ Yes ☐ No | Notification Time: __________ |
 | 8 | Notify monitoring / central station of planned test to prevent false dispatch | ☐ Yes ☐ No | |
 | 9 | Load bank connected (if facility load insufficient to meet required load) | ☐ Yes ☐ No ☐ N/A | Load bank size: __________ kW |
 | 10 | Competent personnel on-site for duration of test | ☐ Yes ☐ No | |

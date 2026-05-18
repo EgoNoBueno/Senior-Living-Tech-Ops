@@ -232,3 +232,12 @@ Use this table to track when each long-cycle item was last completed and when it
 ---
 
 *Form based on CMS-2786R (07/2018), NFPA 10 (§8.3), NFPA 25 (§5.3.2, §13.3.3, §13.4.3.2, §14.3), and NFPA 72 (§14.4.5, §14.4.7). Retain completed checklists as part of the facility maintenance record. All records must be readily available for CMS survey.*
+
+## Notes and Guidance
+- Provide detailed notes for each task, including examples of common issues or observations.
+- Highlight any specific tools or safety precautions required.
+
+## Follow-Up Actions
+| Task ID | Description | Follow-Up Required | Assigned To | Due Date |
+|---------|-------------|--------------------|-------------|----------|
+| Example | Example task description | Yes/No       | Name      | MM/DD/YYYY |

@@ -186,3 +186,37 @@ Use this section to confirm all lower-frequency tasks are documented and on trac
 ---
 
 *Form based on CMS-2786R (07/2018) and NFPA 10, 17A, 25, 72, 96, 99, 110, 111. Retain completed checklists as part of the facility maintenance record.*
+
+---
+
+## Notes and Guidance
+- Provide examples or guidance in the "Notes" column for common issues or observations.
+- Include specific details to help inspectors identify and address potential problems.
+
+---
+
+## Follow-Up Actions
+| Task # | Description | Follow-Up Action Required | Assigned To | Target Date |
+|--------|-------------|---------------------------|-------------|-------------|
+| 1      |             |                           |             |             |
+| 2      |             |                           |             |             |
+
+---
+
+## Summary Section
+**Total Deficiencies Found:** _________  
+**Immediate Corrective Actions Taken:** ☐ Yes ☐ No ☐ N/A  
+**Work Orders Submitted:** ☐ Yes ☐ No  WO#(s): ____________________________  
+**Items Requiring Follow-Up:** ☐ Yes ☐ No
+
+| # | K-Tag | Location / Description | Action Required | Assigned To | Target Date |
+|---|-------|------------------------|-----------------|-------------|-------------|
+| 1 |       |                        |                 |             |             |
+| 2 |       |                        |                 |             |             |
+
+---
+
+## Document Revision History
+| Revision | Date       | Description of Changes       | Updated By |
+|----------|------------|-----------------------------|------------|
+| 1.0      | 2026-05-18 | Initial draft with updates. |            |
